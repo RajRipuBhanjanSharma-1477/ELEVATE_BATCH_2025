@@ -22,12 +22,12 @@ This repo contains all the homework code given during the 2025 Elevate batch
 2. printing hollow diamond pattern.
 [Answer](https://github.com/RajRipuBhanjanSharma-1477/ELEVATE_BATCH_2025/blob/main/C%20Code%20HW/21_3_2025Q2.c)
 3. print the following pattern
-![img](res\1.png)
+![img](/res/1.png)
 [Answer](https://github.com/RajRipuBhanjanSharma-1477/ELEVATE_BATCH_2025/blob/main/C%20Code%20HW/21_3_2025Q3.c)
 4. print the following pattern
-![img](res\2.png)
+![img](/res/2.png)
 [Answer](https://github.com/RajRipuBhanjanSharma-1477/ELEVATE_BATCH_2025/blob/main/C%20Code%20HW/21_3_2025Q4.c)
 5. print the following pattern
-![img](res\3.png)
+![img](./res/3.png)
 [Answer](https://github.com/RajRipuBhanjanSharma-1477/ELEVATE_BATCH_2025/blob/main/C%20Code%20HW/21_3_2025Q5.c)
 
