@@ -2,17 +2,17 @@
 This repo contains all the homework code given during the 2025 Elevate batch
 # date 26 March
 1. Write a code using recursion for printing binary, octal, hexadecimal for the given number.
-[Answer](https://github.com/RajRipuBhanjanSharma-1477/ELEVATE_BATCH_2025/blob/main/C%20Code%20HW/26_1hw.c)
+[Answer](https://github.com/RajRipuBhanjanSharma-1477/ELEVATE_BATCH_2025/blob/main/C%20Code%20HW/26_1hw.c){:target="_blank"}
 # date 25 March
 1. Write a function for factorial
-[Answer](https://github.com/RajRipuBhanjanSharma-1477/ELEVATE_BATCH_2025/blob/main/C%20Code%20HW/25_1hw.c)
+[Answer](https://github.com/RajRipuBhanjanSharma-1477/ELEVATE_BATCH_2025/blob/main/C%20Code%20HW/25_1hw.c){:target="_blank"}
 2. Write a function for print the table of a given number
-[Answer](https://github.com/RajRipuBhanjanSharma-1477/ELEVATE_BATCH_2025/blob/main/C%20Code%20HW/25_2hw.c)
+[Answer](https://github.com/RajRipuBhanjanSharma-1477/ELEVATE_BATCH_2025/blob/main/C%20Code%20HW/25_2hw.c){:target="_blank"}
 3. Write a programe to find wether the given function is a prime number or not
-[Answer](https://github.com/RajRipuBhanjanSharma-1477/ELEVATE_BATCH_2025/blob/main/C%20Code%20HW/25_3hw.c)
+[Answer](https://github.com/RajRipuBhanjanSharma-1477/ELEVATE_BATCH_2025/blob/main/C%20Code%20HW/25_3hw.c){:target="_blank"}
 4. Write function to determine wheter the given number is perfect number
-[Answer](https://github.com/RajRipuBhanjanSharma-1477/ELEVATE_BATCH_2025/blob/main/C%20Code%20HW/25_4hw.c)
+[Answer](https://github.com/RajRipuBhanjanSharma-1477/ELEVATE_BATCH_2025/blob/main/C%20Code%20HW/25_4hw.c){:target="_blank"}
 5. Write a function to check wether the given number is strong number
-[Answer](https://github.com/RajRipuBhanjanSharma-1477/ELEVATE_BATCH_2025/blob/main/C%20Code%20HW/25_5hw.c)
+[Answer](https://github.com/RajRipuBhanjanSharma-1477/ELEVATE_BATCH_2025/blob/main/C%20Code%20HW/25_5hw.c){:target="_blank"}
 6. Create a function  to check wether the given function is a armstrong number
-[Answer](https://github.com/RajRipuBhanjanSharma-1477/ELEVATE_BATCH_2025/blob/main/C%20Code%20HW/25_6hw.c)
+[Answer](https://github.com/RajRipuBhanjanSharma-1477/ELEVATE_BATCH_2025/blob/main/C%20Code%20HW/25_6hw.c){:target="_blank"}
