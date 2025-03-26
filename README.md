@@ -5,7 +5,7 @@ This repo contains all the homework code given during the 2025 Elevate batch
 [Answer](https://github.com/RajRipuBhanjanSharma-1477/ELEVATE_BATCH_2025/blob/main/C%20Code%20HW/26_1hw.c)
 # date 25 March
 1. Write a function for factorial
-[Answer](./ELEVATE_BATCH_2025/blob/main/C%20Code%20HW/25_1hw.c){:target="_blank"}
+[Answer](https://github.com/RajRipuBhanjanSharma-1477/ELEVATE_BATCH_2025/blob/main/C%20Code%20HW/25_1hw.c)
 2. Write a function for print the table of a given number
 [Answer](https://github.com/RajRipuBhanjanSharma-1477/ELEVATE_BATCH_2025/blob/main/C%20Code%20HW/25_2hw.c)
 3. Write a programe to find wether the given function is a prime number or not
