@@ -35,11 +35,9 @@ This repo contains all the homework code given during the 2025 Elevate batch
 Solid Rhombus\
 ![img](./res/Rombus.png)\
 [Answer](https://github.com/RajRipuBhanjanSharma-1477/ELEVATE_BATCH_2025/blob/main/C%20Code%20HW/Backwar_Solid_rombus.c)\ 
-\
 Hollow Rhombus\
 ![img](./res/5.png)\
 [Answer](https://github.com/RajRipuBhanjanSharma-1477/ELEVATE_BATCH_2025/blob/main/C%20Code%20HW/backward_hollow_rombus.c)\ 
-\
 Triangle\
 ![img](./res/7.png)\
 [Answer](https://github.com/RajRipuBhanjanSharma-1477/ELEVATE_BATCH_2025/blob/main/C%20Code%20HW/hollow_triangle.c)
