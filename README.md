@@ -1,5 +1,8 @@
 # ELEVATE_BATCH_2025
 This repo contains all the homework code given during the 2025 Elevate batch
+# date 28 March
+1. write a program for finding the steps for solving the Tower of hanoi
+[Answer](https://github.com/RajRipuBhanjanSharma-1477/ELEVATE_BATCH_2025/blob/main/C%20Code%20HW/28_1hw.c)
 # date 27 March
 1.  write a code to print binary of the given number Write a code jisme hum saare option de using a menu regarding what we want decimal,octal,hexadecimal.
 [Answer](https://github.com/RajRipuBhanjanSharma-1477/ELEVATE_BATCH_2025/blob/main/C%20Code%20HW/27_1hw.c)
